@@ -3,7 +3,7 @@ package sep24;
 import java.util.Scanner;
 
 public class Calculator {
-        public static  void main(String[] args){
+        public static void main(String[] args){
 
             char choice = 'Y';
             do{
@@ -49,7 +49,7 @@ public class Calculator {
 
                     case 5:
                         int mod = number1 % number2;
-                        System.out.println("The addition is : " + mod);
+                        System.out.println("The Modulus is : " + mod);
                         break;
 
                     default:
