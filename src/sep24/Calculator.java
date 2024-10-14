@@ -60,7 +60,7 @@ public class Calculator {
                 System.out.println(choice);
 
 
-            }while(choice == 'N');
+            }while(choice != 'N');
 
 
 
